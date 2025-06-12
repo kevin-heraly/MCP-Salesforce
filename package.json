@@ -1,0 +1,20 @@
+{
+  "name": "mcp-salesforce",
+  "version": "1.0.0",
+  "description": "A Model Context Protocol (MCP) server implementation for Salesforce integration, allowing LLMs to interact with Salesforce data through SOQL queries and SOSL searches.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-heraly/MCP-Salesforce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevin-heraly/MCP-Salesforce/issues"
+  },
+  "homepage": "https://github.com/kevin-heraly/MCP-Salesforce#readme"
+}
